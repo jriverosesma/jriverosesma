@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I’m Juan!
 
-<!--
-**jriverosesma/jriverosesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Vision engineer at [**AIRBUS**](https://www.airbus.com/) ✈️, developing next-generation avionics with cutting-edge ML and CV solutions.
 
-Here are some ideas to get you started:
+- ⚒️ **Current Work:** Building onboard vision-based applications. Check out the [first fully automatic vision-based take-off on an A350](https://www.youtube.com/watch?v=9TIBeso4abU/).
+- 🤖 **ML Focus Areas:** Latency-performance trade-off, model compression (quantization, pruning, etc.), uncertainty quantification, synthetic-real data blending, and custom model architectures.
+- 🔬 **Other Interests:** "Classic" CV tasks like pose estimation and stereo vision, multimodal LLMs.
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/juanriverosesma/) for more info or to get in touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://preview.redd.it/computer-vision-problems-v0-zoy69bcgvocd1.jpeg?auto=webp&s=a4a46efc7bcabe4d66d35f7ad26ce71c2dfaf247" width="400">
+</p>
+
+---
